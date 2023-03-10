@@ -7,7 +7,7 @@ export class PostsController {
     @Get("")
     findAll() {
         return {
-            data: 'This action returns all posts'
+            data: 'This action returns all posts test'
         };
     }
 
